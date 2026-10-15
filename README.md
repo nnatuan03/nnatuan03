@@ -1,12 +1,12 @@
 ### Hi there, I'm **Nguyen Ngoc Anh Tuan**! 👋
 
-**Cybersecurity · Penetration Testing · HTB CPTS**
+**Security Engineer**
 
 **Co-founder of [Synapse CE](https://github.com/KKloudTarus/synapse-ce)**
 
 Ho Chi Minh City, Vietnam
 
-![Animated introduction: Co-founder of Synapse CE, Penetration Testing, Application Security](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Co-founder+of+Synapse+CE;Penetration+Testing+%7C+Application+Security;Still+learning.+Always+curious.)
+![Animated introduction: Security Engineer, Co-founder of Synapse CE](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Security+Engineer;Co-founder+of+Synapse+CE)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/nnatuan03?style=social)
@@ -16,14 +16,15 @@ Ho Chi Minh City, Vietnam
 
 ## 🚀 About Me
 
-I'm a cybersecurity practitioner at **HD SAISON Finance Co., Ltd.**, with experience in penetration testing for banking and financial services. I enjoy investigating how applications behave, finding weaknesses in application workflows, and turning findings into clear explanations of security risk.
+I'm a **Security Engineer** at **HD SAISON Finance Co., Ltd.**, with a background in banking and financial services. My work spans application security, vulnerability management, cloud security, and DevSecOps. I work with engineering teams to build security into software delivery and turn security findings into practical improvements.
 
-- 🔍 **Application security** — hands-on assessments of financial applications and eKYC workflows.
-- 🤝 **Project delivery** — experience managing security assessments from investigation through reporting.
-- 🤖 **Current interests** — AI-assisted security research and automation that makes assessment work more effective.
-- 🎓 **Continuing education** — University of Finance & Marketing (UFM), since 2026.
+- 🛡️ **Application security** — security architecture reviews, secure code reviews, and web, mobile, and API assessments.
+- 🔍 **Vulnerability management** — connecting assessment findings, remediation, and tracking with engineering teams.
+- ⚙️ **DevSecOps** — integrating SAST, DAST, and dependency scanning into CI/CD workflows.
+- 🤖 **AI & security automation** — building tools and agent workflows for security validation, code reviews, and reporting.
+- 🎓 **Education** — Information Assurance graduate, FPT University (2025); MBA in progress at University of Finance & Marketing (UFM), since 2025.
 
-> Still learning. Staying curious. Making each assessment count.
+> Still learning. Building security into everyday engineering.
 
 ---
 
