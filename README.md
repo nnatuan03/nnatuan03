@@ -1,6 +1,10 @@
 ### Hi there, I'm **Nguyen Ngoc Anh Tuan**! 👋
 
-![Animated introduction: Cybersecurity, Security Automation, AI for Security](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Cybersecurity+%7C+Security+Automation;Exploring+AI+for+Security)
+**Cybersecurity · Penetration Testing · HTB CPTS**
+
+Ho Chi Minh City, Vietnam
+
+![Animated introduction: Penetration Testing, Application Security, Still learning](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Penetration+Testing+%7C+Application+Security;Still+learning.+Always+curious.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/nnatuan03?style=social)
@@ -10,10 +14,27 @@
 
 ## 🚀 About Me
 
-- 🔍 Interested in **cybersecurity, penetration testing, and security research**.
-- 🤖 Exploring **AI-assisted security workflows** and practical automation.
-- 🛠️ Building tools that make repetitive work simpler.
-- 📚 Learning through hands-on projects and open-source exploration.
+I'm a cybersecurity practitioner at **HD SAISON Finance Co., Ltd.**, with experience in penetration testing for banking and financial services. I enjoy investigating how applications behave, finding weaknesses in application workflows, and turning findings into clear explanations of security risk.
+
+- 🔍 **Application security** — hands-on assessments of financial applications and eKYC workflows.
+- 🤝 **Project delivery** — experience managing security assessments from investigation through reporting.
+- 🤖 **Current interests** — AI-assisted security research and automation that makes assessment work more effective.
+- 🎓 **Continuing education** — University of Finance & Marketing (UFM), since 2026.
+
+> Still learning. Staying curious. Making each assessment count.
+
+---
+
+## 🏅 Certifications & Training
+
+| Credential | Issuer | Issued |
+| --- | --- | --- |
+| **HTB Certified Penetration Testing Specialist (CPTS)** | Hack The Box | May 2026 |
+| Google Project Management | Google | Sep 2025 |
+| IBM Cybersecurity Analyst Specialization | IBM | Aug 2023 |
+| Web Penetration Testing | CyberJutsu Academy | Jul 2023 |
+
+[View credentials on LinkedIn →](https://www.linkedin.com/in/nguyen-ngoc-anh-tuan/)
 
 ---
 
@@ -26,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Development & Automation
 
 ### 🖥️ Languages
 
