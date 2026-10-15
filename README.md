@@ -2,9 +2,11 @@
 
 **Cybersecurity · Penetration Testing · HTB CPTS**
 
+**Co-founder of [Synapse CE](https://github.com/KKloudTarus/synapse-ce)**
+
 Ho Chi Minh City, Vietnam
 
-![Animated introduction: Penetration Testing, Application Security, Still learning](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Penetration+Testing+%7C+Application+Security;Still+learning.+Always+curious.)
+![Animated introduction: Co-founder of Synapse CE, Penetration Testing, Application Security](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Co-founder+of+Synapse+CE;Penetration+Testing+%7C+Application+Security;Still+learning.+Always+curious.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/nnatuan03?style=social)
@@ -22,6 +24,16 @@ I'm a cybersecurity practitioner at **HD SAISON Finance Co., Ltd.**, with experi
 - 🎓 **Continuing education** — University of Finance & Marketing (UFM), since 2026.
 
 > Still learning. Staying curious. Making each assessment count.
+
+---
+
+## 🧩 Building Synapse CE
+
+As **Co-founder**, I'm building [**Synapse CE**](https://github.com/KKloudTarus/synapse-ce) with the team: an open-source security assessment platform that brings software supply chain analysis, code scanning, reconnaissance, cloud posture, and runtime defense into one workflow.
+
+Our focus is on reproducible results, controlled execution, and traceable evidence that connects security findings to actionable reports.
+
+[Explore the repository →](https://github.com/KKloudTarus/synapse-ce) · [Website](https://synapse.kkloudtarus.net/) · [Documentation](https://github.com/KKloudTarus/synapse-ce/tree/main/docs/guide)
 
 ---
 
