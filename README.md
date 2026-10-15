@@ -43,4 +43,5 @@
 
 ## 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh%20Tuan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nguyen-ngoc-anh-tuan/)
 [![GitHub](https://img.shields.io/badge/GitHub-nnatuan03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnatuan03)
