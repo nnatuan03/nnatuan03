@@ -31,21 +31,10 @@ I'm a **Security Engineer** working on the security of a digital bank running on
 
 ## 💼 Current Work
 
-**🏦 Leading application security for a digital bank**
-
-I run the white-box security assessment program across more than 15 production services of a digital bank and a second financial platform: authentication, Keycloak realms, onboarding and eKYC, accounts, transactions, term deposits, teller, partner and back-office integrations, the API gateway, the CMS and the mobile host app. I own it end to end. I set the review rounds, find and rate the issues, agree on severity with the security lead, assign fixes to dev leads on Jira, retest each fix against the commit that shipped it, and close it with evidence. In one production audit alone I raised 64 findings, and in one retest round I verified 33 fixes on `main`. The program also feeds the company's PCI DSS work.
-
-**☁️ Building secure AWS infrastructure from zero**
-
-I designed and shipped a FleetDM endpoint management platform for the company's devices, in Terraform, starting from a new AWS account vended through Account Factory for Terraform (AFT). The admin console is reachable only over VPN. Apple MDM enrollment and OTA profiles go out through a WAF-protected public path. Every outbound connection is allow-listed in AWS Network Firewall, and DNS and TLS run on ACM. That took more than 40 pull requests across the landing zone, the network firewall, the shared EKS platform and the Fleet stack itself.
-
-**🛡️ Hardening the edge of the shared platform**
-
-I built the layered AWS WAF web ACLs that protect the public load balancers of the shared EKS platform, with one ACL per gateway and full request logging to CloudWatch and S3.
-
-**⚙️ Running the security pipeline**
-
-I work on the pipeline that feeds scanner results into DefectDojo, so each vulnerability appears exactly once with its source. I also maintain the AI review gates that check infrastructure and release changes before they merge.
+- 🏦 **AppSec program lead:** white-box assessments across 15+ production banking services, from finding to retest and closure. 64 findings in one audit, 33 fixes verified in one retest round.
+- ☁️ **AWS infrastructure:** built a FleetDM endpoint management platform from scratch in Terraform, behind VPN, AWS WAF and Network Firewall.
+- 🛡️ **Edge protection:** layered AWS WAF for the public load balancers of the shared EKS platform.
+- ⚙️ **Security pipeline:** scanner results into DefectDojo, plus AI review gates for infrastructure and release changes.
 
 ---
 
