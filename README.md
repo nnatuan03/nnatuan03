@@ -16,25 +16,25 @@ Ho Chi Minh City, Vietnam
 
 ## 🚀 About Me
 
-I'm a **Security Engineer** at **Galaxy FinX**, building security into a digital banking platform on AWS. My work spans application security, vulnerability management, cloud security, and DevSecOps, and I work with engineering teams to turn security findings into fixes that ship.
+I'm a Security Engineer at **Galaxy FinX**, where I work on the security of a digital bank running on AWS. I review code, manage vulnerabilities through to the fix, and build the cloud and CI/CD controls around them.
 
-- 🛡️ **Application security** — white-box reviews of banking microservices, identity and onboarding flows, and partner integrations, with evidence pinned to the commit under review.
-- 🔍 **Vulnerability management** — running findings from triage and severity calls to remediation, retest, and closure, tracked with engineering leads in Jira.
-- ☁️ **Cloud security** — AWS WAF web ACLs, Network Firewall egress rules, landing-zone and account vending (AFT), and private-by-default load balancing, all in Terraform.
-- ⚙️ **DevSecOps** — SAST, SCA, and IaC scanning in CI/CD, with Grype results flowing into DefectDojo and automated review gates for infrastructure and release changes.
-- 🤖 **AI & security automation** — building agent workflows for security validation, code reviews, and reporting.
-- 🎓 **Education** — Information Assurance graduate, FPT University (2025); MBA in progress at University of Finance & Marketing (UFM), since 2025.
+- 🛡️ **Application security:** white-box code review of banking services, from login and onboarding to partner integrations.
+- 🔍 **Vulnerability management:** triage, severity, remediation and retest, tracked in Jira with the engineering leads who own the fix.
+- ☁️ **Cloud security:** AWS WAF, Network Firewall, landing zone and account vending (AFT), written in Terraform.
+- ⚙️ **DevSecOps:** SAST, SCA and IaC scanning in CI/CD, with results collected in DefectDojo.
+- 🤖 **Automation:** agent workflows for security validation, code review and reporting.
+- 🎓 **Education:** BSc in Information Assurance, FPT University (2025). MBA student at University of Finance & Marketing (UFM) since 2025.
 
 > Still learning. Building security into everyday engineering.
 
 ---
 
-## 💼 What I'm Working On
+## 💼 Current Work
 
-- **Application security assessments** — white-box review rounds across the bank's core services (authentication, onboarding, eKYC, payments, back-office integrations), each finding carrying its severity rationale, evidence, and an owner.
-- **Endpoint management on AWS** — deploying FleetDM on ECS Fargate with Terraform: private admin access over VPN, a WAF-protected public path for device enrollment, and egress allow-listed through AWS Network Firewall.
-- **Edge protection** — layered AWS WAF web ACLs for public ALBs on the shared EKS platform, with CloudWatch and S3 logging.
-- **Security pipeline** — importing scanner results (Grype, and more) into DefectDojo reliably so every finding lands once, with its source.
+- White-box review rounds across the bank's core services: authentication, onboarding, eKYC, payments and back-office integrations.
+- A FleetDM deployment on ECS Fargate for endpoint management. The admin UI is reachable only over VPN, device enrollment goes through AWS WAF, and outbound traffic is allow-listed in Network Firewall.
+- AWS WAF web ACLs for the public load balancers of the shared EKS platform, logged to CloudWatch and S3.
+- Grype to DefectDojo imports that keep one finding per vulnerability, whichever source reports it.
 
 ---
 
@@ -42,25 +42,24 @@ I'm a **Security Engineer** at **Galaxy FinX**, building security into a digital
 
 ### AWS Labs
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [**Automated Security Helper (ASH)**](https://github.com/awslabs/automated-security-helper) — SAST, SCA, and IaC scanner orchestration | [Name the resource of each Checkov finding](https://github.com/awslabs/automated-security-helper/pull/1024), so findings on Terraform plans and repeated modules stay distinct and resource-scoped suppressions match | ✅ Merged |
-| | [Fill the CVE and CWE of scanner findings](https://github.com/awslabs/automated-security-helper/pull/1006) from SARIF results across HTML, Markdown, CSV, JSON reports and the MCP server | ✅ Merged |
-| | [Say why a scanner did not run](https://github.com/awslabs/automated-security-helper/pull/1017) in every report format | ✅ Merged |
-| [**IAM Policy Autopilot**](https://github.com/awslabs/iam-policy-autopilot) — least-privilege IAM policies from static analysis (Rust) | [Resolve resources of cross-service authorized actions in their own service reference](https://github.com/awslabs/iam-policy-autopilot/pull/301) | ✅ Merged |
-| | [Map JavaScript SDK client packages to their botocore service name](https://github.com/awslabs/iam-policy-autopilot/pull/303) | 🔄 In review |
+**[Automated Security Helper (ASH)](https://github.com/awslabs/automated-security-helper)**, a scanner orchestrator for SAST, SCA and IaC:
 
-### Synapse CE
+- [#1024](https://github.com/awslabs/automated-security-helper/pull/1024) Name the resource of each Checkov finding, so two resources that fail the same rule no longer give identical findings and resource-scoped suppressions match. *Merged*
+- [#1006](https://github.com/awslabs/automated-security-helper/pull/1006) Fill the CVE and CWE fields from SARIF results. They were empty in every report and in the MCP server. *Merged*
+- [#1017](https://github.com/awslabs/automated-security-helper/pull/1017) Show in every report why a scanner was skipped or missing. *Merged*
 
-Core contributor to [**Synapse CE**](https://github.com/KKloudTarus/synapse-ce): the assessment lifecycle (immutable snapshots, finding lineage, retests, and closure governance), vulnerability intelligence, secure CI/CD integrations, asset-centric security management, and the guided [playground](https://github.com/KKloudTarus/synapse-ce/pull/1568).
+**[IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)**, which generates IAM policies from application code:
+
+- [#301](https://github.com/awslabs/iam-policy-autopilot/pull/301) Look up the resources of a cross-service action in that action's own service. *Merged*
+- [#303](https://github.com/awslabs/iam-policy-autopilot/pull/303) Map JavaScript SDK client packages to the service names botocore uses. *In review*
 
 ---
 
 ## 🧩 Building Synapse CE
 
-As **Co-founder**, I'm building [**Synapse CE**](https://github.com/KKloudTarus/synapse-ce) with the team: an open-source security assessment platform that brings software supply chain analysis, code scanning, reconnaissance, cloud posture, and runtime defense into one workflow.
+I co-founded [**Synapse CE**](https://github.com/KKloudTarus/synapse-ce), an open-source security assessment platform. It runs supply chain analysis, code scanning, reconnaissance, cloud posture checks and runtime defense in one workflow, and ties every finding to the evidence behind it.
 
-Our focus is on reproducible results, controlled execution, and traceable evidence that connects security findings to actionable reports.
+My work there covers the assessment lifecycle (snapshots, finding lineage, retests and closure), vulnerability intelligence, CI/CD integrations, asset management and the guided [playground](https://github.com/KKloudTarus/synapse-ce/pull/1568).
 
 [Explore the repository →](https://github.com/KKloudTarus/synapse-ce) · [Website](https://synapse.kkloudtarus.net/) · [Documentation](https://github.com/KKloudTarus/synapse-ce/tree/main/docs/guide)
 
