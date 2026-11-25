@@ -16,7 +16,7 @@ Ho Chi Minh City, Vietnam
 
 ## 🚀 About Me
 
-I'm a Security Engineer at **Galaxy FinX**, where I work on the security of a digital bank running on AWS. I review code, manage vulnerabilities through to the fix, and build the cloud and CI/CD controls around them.
+I'm a **Security Engineer** working on the security of a digital bank running on AWS. I review code, manage vulnerabilities through to the fix, and build the cloud and CI/CD controls around them.
 
 - 🛡️ **Application security:** white-box code review of banking services, from login and onboarding to partner integrations.
 - 🔍 **Vulnerability management:** triage, severity, remediation and retest, tracked in Jira with the engineering leads who own the fix.
