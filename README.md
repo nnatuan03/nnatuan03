@@ -1,12 +1,12 @@
 ### Hi there, I'm **Nguyen Ngoc Anh Tuan**! 👋
 
-**Security Engineer**
+**Security Engineer · AppSec Lead · DevSecOps**
 
 **Co-founder of [Synapse CE](https://github.com/KKloudTarus/synapse-ce)**
 
 Ho Chi Minh City, Vietnam
 
-![Animated introduction: Security Engineer, Co-founder of Synapse CE](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Security+Engineer;Co-founder+of+Synapse+CE)
+![Animated introduction: Security Engineer, AppSec Lead, DevSecOps Engineer, Co-founder of Synapse CE](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Security+Engineer;AppSec+Lead;DevSecOps+Engineer;Co-founder+of+Synapse+CE)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/nnatuan03?style=social)
@@ -31,10 +31,10 @@ I'm a **Security Engineer** working on the security of a digital bank running on
 
 ## 💼 Current Work
 
-- 🏦 **AppSec program lead:** white-box assessments across 15+ production banking services, from finding to retest and closure. 64 findings in one audit, 33 fixes verified in one retest round.
-- ☁️ **AWS infrastructure:** built a FleetDM endpoint management platform from scratch in Terraform, behind VPN, AWS WAF and Network Firewall.
-- 🛡️ **Edge protection:** layered AWS WAF for the public load balancers of the shared EKS platform.
-- ⚙️ **Security pipeline:** scanner results into DefectDojo, plus AI review gates for infrastructure and release changes.
+- 🏦 **AppSec Lead:** own the application security program for a digital bank. White-box assessments across 15+ production services, from finding to fix, retest and closure.
+- ⚙️ **DevSecOps:** security gates in every pipeline. SAST, SCA, IaC and container scanning, results centralized in DefectDojo, AI review on infrastructure and release changes.
+- ☁️ **AWS Security:** secure-by-default infrastructure in Terraform. Account vending with AFT, AWS WAF, Network Firewall, Security Hub, private-first networking on EKS and ECS.
+- 📋 **Compliance:** map controls and evidence to PCI DSS and banking regulations, so every finding and fix holds up in an audit.
 
 ---
 
