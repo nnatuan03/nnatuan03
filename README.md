@@ -73,8 +73,12 @@ My work there covers the assessment lifecycle (snapshots, finding lineage, retes
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=nnatuan03&amp;show_icons=true&amp;theme=react&amp;hide_border=true" alt="GitHub statistics for nnatuan03" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nnatuan03&amp;theme=react&amp;layout=compact&amp;hide_border=true" alt="Most used languages in nnatuan03's public repositories" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=nnatuan03&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true" alt="GitHub statistics for nnatuan03" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=nnatuan03&amp;theme=react&amp;hide_border=true" alt="GitHub contribution streak for nnatuan03" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nnatuan03&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="Contribution activity graph for nnatuan03" />
 </div>
 
 ---
