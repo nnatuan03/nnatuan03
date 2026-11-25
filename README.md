@@ -51,18 +51,10 @@ I work on the pipeline that feeds scanner results into DefectDojo, so each vulne
 
 ## 🌍 Open Source Contributions
 
-### AWS Labs
+I contribute to AWS Labs security tools that I use every day. Running AWS Security Hub and these scanners on a real banking workload showed me gaps in what they report, so I fix them upstream.
 
-**[Automated Security Helper (ASH)](https://github.com/awslabs/automated-security-helper)**, a scanner orchestrator for SAST, SCA and IaC:
-
-- [#1024](https://github.com/awslabs/automated-security-helper/pull/1024) Name the resource of each Checkov finding, so two resources that fail the same rule no longer give identical findings and resource-scoped suppressions match. *Merged*
-- [#1006](https://github.com/awslabs/automated-security-helper/pull/1006) Fill the CVE and CWE fields from SARIF results. They were empty in every report and in the MCP server. *Merged*
-- [#1017](https://github.com/awslabs/automated-security-helper/pull/1017) Show in every report why a scanner was skipped or missing. *Merged*
-
-**[IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)**, which generates IAM policies from application code:
-
-- [#301](https://github.com/awslabs/iam-policy-autopilot/pull/301) Look up the resources of a cross-service action in that action's own service. *Merged*
-- [#303](https://github.com/awslabs/iam-policy-autopilot/pull/303) Map JavaScript SDK client packages to the service names botocore uses. *In review*
+- [**Automated Security Helper (ASH)**](https://github.com/awslabs/automated-security-helper): SAST, SCA and IaC scanner orchestration
+- [**IAM Policy Autopilot**](https://github.com/awslabs/iam-policy-autopilot): least-privilege IAM policies generated from application code
 
 ---
 
