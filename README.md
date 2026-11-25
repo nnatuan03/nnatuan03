@@ -1,63 +1,75 @@
-### Hi there, I'm **Nguyen Ngoc Anh Tuan**! 👋
+<div align="center">
 
-**Security Engineer · AppSec Lead · DevSecOps**
+## Hi, I'm Nguyen Ngoc Anh Tuan 👋
 
-**Co-founder of [Synapse CE](https://github.com/KKloudTarus/synapse-ce)**
+![Security Engineer, AppSec Lead, DevSecOps Engineer, Co-founder of Synapse CE](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=31F781&center=true&vCenter=true&width=600&lines=Security+Engineer;AppSec+Lead;DevSecOps+Engineer;Co-founder+of+Synapse+CE)
 
-Ho Chi Minh City, Vietnam
+📍 Ho Chi Minh City, Vietnam
 
-![Animated introduction: Security Engineer, AppSec Lead, DevSecOps Engineer, Co-founder of Synapse CE](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&width=600&lines=Security+Engineer;AppSec+Lead;DevSecOps+Engineer;Co-founder+of+Synapse+CE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-ngoc-anh-tuan/)
+[![Synapse CE](https://img.shields.io/badge/Synapse%20CE-31F781?style=flat-square&logo=github&logoColor=black)](https://github.com/KKloudTarus/synapse-ce)
+[![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://synapse.kkloudtarus.net/)
+![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=31F781&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nnatuan03&color=red)
-![GitHub Followers](https://img.shields.io/github/followers/nnatuan03?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/nnatuan03?affiliations=OWNER&style=social)
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Security Engineer** working on the security of a digital bank running on AWS. I review code, manage vulnerabilities through to the fix, and build the cloud and CI/CD controls around them.
+Security Engineer working on a digital bank running on AWS. I lead application security, build DevSecOps into the delivery pipeline, and secure the cloud platform underneath it.
 
-- 🛡️ **Application security:** white-box code review of banking services, from login and onboarding to partner integrations.
-- 🔍 **Vulnerability management:** triage, severity, remediation and retest, tracked in Jira with the engineering leads who own the fix.
-- ☁️ **Cloud security:** AWS WAF, Network Firewall, landing zone and account vending (AFT), written in Terraform.
-- ⚙️ **DevSecOps:** SAST, SCA and IaC scanning in CI/CD, with results collected in DefectDojo.
-- 🤖 **Automation:** agent workflows for security validation, code review and reporting.
-- 🎓 **Education:** BSc in Information Assurance, FPT University (2025). MBA student at University of Finance & Marketing (UFM) since 2025.
-
-> Still learning. Building security into everyday engineering.
+- 🏦 Lead white-box security assessments across **15+ production banking services**
+- ☁️ Contributor to **AWS Labs** security tools: [ASH](https://github.com/awslabs/automated-security-helper) and [IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)
+- 🧩 Co-founder of **[Synapse CE](https://github.com/KKloudTarus/synapse-ce)**, an open-source security assessment platform
+- 🎯 **HTB CPTS** certified penetration tester
+- 🎓 BSc Information Assurance, FPT University · MBA student at UFM
 
 ---
 
-## 💼 Current Work
+## 💼 What I Do
 
-- 🏦 **AppSec Lead:** own the application security program for a digital bank. White-box assessments across 15+ production services, from finding to fix, retest and closure.
-- ⚙️ **DevSecOps:** security gates in every pipeline. SAST, SCA, IaC and container scanning, results centralized in DefectDojo, AI review on infrastructure and release changes.
-- ☁️ **AWS Security:** secure-by-default infrastructure in Terraform. Account vending with AFT, AWS WAF, Network Firewall, Security Hub, private-first networking on EKS and ECS.
+- 🛡️ **AppSec Lead:** own the application security program end to end. White-box review, severity, remediation, retest and closure with evidence.
+- ⚙️ **DevSecOps:** security gates in every pipeline. SAST, SCA, IaC and container scanning centralized in DefectDojo, plus AI review on infrastructure and release changes.
+- ☁️ **AWS Security:** secure-by-default infrastructure in Terraform. AFT account vending, AWS WAF, Network Firewall, Security Hub, private-first networking on EKS and ECS.
 - 📋 **Compliance:** map controls and evidence to PCI DSS and banking regulations, so every finding and fix holds up in an audit.
+- 🤖 **Automation:** agent workflows for security validation, code review and reporting.
 
 ---
 
-## 🌍 Open Source Contributions
+## 🧩 Featured Projects
 
-I contribute to AWS Labs security tools that I use every day. Running AWS Security Hub and these scanners on a real banking workload showed me gaps in what they report, so I fix them upstream.
+<div align="center">
+  <a href="https://github.com/KKloudTarus/synapse-ce"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=KKloudTarus&amp;repo=synapse-ce&amp;theme=react&amp;hide_border=true" alt="Synapse CE repository card" /></a>
+  <a href="https://github.com/awslabs/automated-security-helper"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=awslabs&amp;repo=automated-security-helper&amp;theme=react&amp;hide_border=true" alt="Automated Security Helper repository card" /></a>
+  <a href="https://github.com/awslabs/iam-policy-autopilot"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin?username=awslabs&amp;repo=iam-policy-autopilot&amp;theme=react&amp;hide_border=true" alt="IAM Policy Autopilot repository card" /></a>
+</div>
 
-- [**Automated Security Helper (ASH)**](https://github.com/awslabs/automated-security-helper): SAST, SCA and IaC scanner orchestration
-- [**IAM Policy Autopilot**](https://github.com/awslabs/iam-policy-autopilot): least-privilege IAM policies generated from application code
+**Synapse CE** brings supply chain analysis, code scanning, reconnaissance, cloud posture and runtime defense into one workflow, and ties every finding to its evidence. I built its assessment lifecycle, vulnerability intelligence, CI/CD integrations, asset management and the guided playground. [Website](https://synapse.kkloudtarus.net/) · [Docs](https://github.com/KKloudTarus/synapse-ce/tree/main/docs/guide)
 
----
-
-## 🧩 Building Synapse CE
-
-I co-founded [**Synapse CE**](https://github.com/KKloudTarus/synapse-ce), an open-source security assessment platform. It runs supply chain analysis, code scanning, reconnaissance, cloud posture checks and runtime defense in one workflow, and ties every finding to the evidence behind it.
-
-My work there covers the assessment lifecycle (snapshots, finding lineage, retests and closure), vulnerability intelligence, CI/CD integrations, asset management and the guided [playground](https://github.com/KKloudTarus/synapse-ce/pull/1568).
-
-[Explore the repository →](https://github.com/KKloudTarus/synapse-ce) · [Website](https://synapse.kkloudtarus.net/) · [Documentation](https://github.com/KKloudTarus/synapse-ce/tree/main/docs/guide)
+**AWS Labs:** running AWS Security Hub and these scanners on a real banking workload showed me gaps in what they report, so I fix them upstream.
 
 ---
 
-## 🏅 Certifications & Training
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,rust,ts,js,aws,terraform,kubernetes,docker,githubactions,linux,git&amp;perline=12" alt="Python, Go, Rust, TypeScript, JavaScript, AWS, Terraform, Kubernetes, Docker, GitHub Actions, Linux, Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DefectDojo-1E3A5F?style=flat-square" alt="DefectDojo" />
+  <img src="https://img.shields.io/badge/Grype-0B5FFF?style=flat-square" alt="Grype" />
+  <img src="https://img.shields.io/badge/Checkov-6B47ED?style=flat-square" alt="Checkov" />
+  <img src="https://img.shields.io/badge/AWS%20WAF-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS WAF" />
+  <img src="https://img.shields.io/badge/Security%20Hub-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Security Hub" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+---
+
+## 🏅 Certifications
 
 | Credential | Issuer | Issued |
 | --- | --- | --- |
@@ -70,52 +82,10 @@ My work there covers the assessment lifecycle (snapshots, finding lineage, retes
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=nnatuan03&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true" alt="GitHub statistics for nnatuan03" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=nnatuan03&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide=stars&amp;hide_rank=true&amp;theme=react&amp;hide_border=true" alt="GitHub statistics for nnatuan03" />
   <img width="49%" src="https://streak-stats.demolab.com?user=nnatuan03&amp;theme=react&amp;hide_border=true" alt="GitHub contribution streak for nnatuan03" />
-</div>
-
-<div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nnatuan03&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="Contribution activity graph for nnatuan03" />
 </div>
-
----
-
-## 🛠️ Development & Automation
-
-### 🖥️ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ☁️ Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔐 Security Tooling
-
-![DefectDojo](https://img.shields.io/badge/DefectDojo-1E3A5F?style=for-the-badge)
-![Grype](https://img.shields.io/badge/Grype-0B5FFF?style=for-the-badge)
-![Checkov](https://img.shields.io/badge/Checkov-6B47ED?style=for-the-badge)
-
-### ⚡ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anh%20Tuan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nguyen-ngoc-anh-tuan/)
-[![GitHub](https://img.shields.io/badge/GitHub-nnatuan03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnatuan03)
